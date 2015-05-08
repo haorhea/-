@@ -1,5 +1,12 @@
-# -
-            <div class="w-who"><a class="ptag" href="http://floweropenle.lofter.com" target="_blank">花开了</a><a href="#" onclick="loft.g.followFromIcon(event);" class="w-icn2 w-icn2-3 a-followicon">关注</a></div>
+   </div>
+                </div>
+                <div class="mlistcnt">
+                    <div class="isay">
+                        <div class="isayt">
+                            <a class="isayc" data-time="1419777206592" href="http://floweropenle.lofter.com/post/3e36e5_4ed1044" title="查看全文" target="_blank">打开新页</a><span class="isayc" style="display:none;"></span>
+                        </div>
+                        <div class="isaym">
+                            <div class="w-who"><a class="ptag" href="http://floweropenle.lofter.com" target="_blank">花开了</a><a href="#" onclick="loft.g.followFromIcon(event);" class="w-icn2 w-icn2-3 a-followicon">关注</a></div>
                             <div>
 				<div class="m-icnt ctag">
                 	<h2 class="tit">转生领养PAA</h2>
@@ -92,3 +99,4 @@
                                 </div>
                                 <div class="optb">
                                 	<span class="opti"><a rel="nofollow" href="#" class="acttag" hidefocus="true">热度(186)</a><span class="opticrt"></span></span><span class="opti"><a rel="nofollow" href="#" class="acttag" hidefocus="true">评论(31)</a><span class="opticrt"></span></span><span class="opti opti-reblog"><a class="acttag " rel="nofollow" href="http://www.lofter.com/login?target=http%3A%2F%2Fwww.lofter.com%2Freblog%2F3e36e5_4ed1044" target="_blank">转载</a></span><span class="opti opti-shareTo "><a href="#" class="acttag" hidefocus="true">分享</a><span class="opticrt"></span></span><span class="opti"><a rel="nofollow" class="acttag" hidefocus="true" href="#">推荐</a></span><span class="opti"><a rel="nofollow" class="w-icn w-icn-0b acttag" hidefocus="true" href="#">喜欢</a></span>
+                                </div>
